@@ -2,4 +2,4 @@
 
 Coming soon.
 
-[r/superstonks](https://www.reddit.com/r/Superstonk/)
+[r/superstonk](https://www.reddit.com/r/Superstonk/)
