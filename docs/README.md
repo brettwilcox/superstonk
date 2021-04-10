@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/superstonk/superstonk/main/docs/images/banner_github.png" alt="Superstonk Logo" height="75px"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/superstonk/superstonk/main/docs/images/banner_github.png" alt="Superstonk Logo"/></p>
 
 # superstonk.io
 
